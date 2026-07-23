@@ -4,6 +4,8 @@
 
 သုံးထားတဲ့ Tech Stack ကတော့ Flutter ကို Clean Architecture နဲ့ BLoC Pattern သုံးပြီး ရေးထားပါတယ်။ Backend အတွက်ကတော့ Supabase ကို သုံးထားပါတယ်။ Course, User, Payment လို Relational Data တွေကို SQL နဲ့ ကိုင်တွယ်တာ ပိုအဆင်ပြေမယ် ထင်လို့ Firebase အစား Supabase ကို ရွေးဖြစ်ခဲ့တာပါ။
 
+UI/UX ပိုင်းကတော့ GitHub ရဲ့ Design ကို အတုယူ ရေးဆွဲထားတာပါ။ Code ရေးရာမှာ Claude Opus 4.8 ကို အဓိက သုံးပြီး၊ UI/UX design အပိုင်းအတွက်ကတော့ Fable ကို အဓိက သုံးထားပါတယ်။
+
 ဒီ Repo မှာတော့ စာနဲ့ Screenshot တွေပဲ တင်ထားတာပါ။ Source code တွေ မပါပါဘူး။
 
 ## Screenshots
