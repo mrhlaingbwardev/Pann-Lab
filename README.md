@@ -8,19 +8,64 @@
 
 ## Screenshots
 
-User App:
+### Auth
 
 <p>
-  <img src="assets/home.jpg" width="240" alt="Home" />
-  <img src="assets/my-learning.jpg" width="240" alt="My Learning" />
-  <img src="assets/profile.jpg" width="240" alt="Profile" />
+  <img src="assets/signin.jpg" width="220" alt="Sign In" />
+  <img src="assets/signup.jpg" width="220" alt="Sign Up" />
+  <img src="assets/forgot-password.jpg" width="220" alt="Forgot Password" />
 </p>
 
-Admin / Creator:
+### User App
 
 <p>
-  <img src="assets/admin-dashboard.jpg" width="240" alt="Admin Dashboard" />
-  <img src="assets/admin-tools.jpg" width="240" alt="Admin Tools" />
+  <img src="assets/home.jpg" width="220" alt="Home" />
+  <img src="assets/course-detail.jpg" width="220" alt="Course Detail" />
+  <img src="assets/my-learning.jpg" width="220" alt="My Learning" />
+</p>
+
+<p>
+  <img src="assets/profile.jpg" width="220" alt="Profile" />
+  <img src="assets/my-downloads.jpg" width="220" alt="My Downloads" />
+  <img src="assets/settings.jpg" width="220" alt="Settings" />
+</p>
+
+<p>
+  <img src="assets/about-legal.jpg" width="220" alt="About and Legal" />
+  <img src="assets/promo-popup.jpg" width="220" alt="Promo Popup" />
+</p>
+
+### Creator
+
+<p>
+  <img src="assets/creator-studio.jpg" width="220" alt="Creator Studio" />
+  <img src="assets/become-creator.jpg" width="220" alt="Become a Creator" />
+</p>
+
+### Admin
+
+<p>
+  <img src="assets/admin-dashboard.jpg" width="220" alt="Admin Dashboard" />
+  <img src="assets/admin-tools.jpg" width="220" alt="Admin Tools" />
+  <img src="assets/admin-manage-courses.jpg" width="220" alt="Manage Courses" />
+</p>
+
+<p>
+  <img src="assets/admin-payment-requests.jpg" width="220" alt="Payment Requests" />
+  <img src="assets/admin-payment-settings.jpg" width="220" alt="Payment Settings" />
+  <img src="assets/admin-payouts-creators.jpg" width="220" alt="Payouts - Creators" />
+</p>
+
+<p>
+  <img src="assets/admin-payouts-history.jpg" width="220" alt="Payouts - History" />
+  <img src="assets/admin-creator-applications.jpg" width="220" alt="Creator Applications" />
+  <img src="assets/admin-manage-users.jpg" width="220" alt="Manage Users" />
+</p>
+
+<p>
+  <img src="assets/admin-manage-categories.jpg" width="220" alt="Manage Categories" />
+  <img src="assets/admin-manage-notifications.jpg" width="220" alt="Manage Notifications" />
+  <img src="assets/admin-promo-popup.jpg" width="220" alt="Promo Popup Setup" />
 </p>
 
 ## System Architecture
