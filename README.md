@@ -10,18 +10,22 @@
 
 User App:
 
-![Home](assets/home.jpg)
-![My Learning](assets/my-learning.jpg)
-![Profile](assets/profile.jpg)
+<p>
+  <img src="assets/home.jpg" width="240" alt="Home" />
+  <img src="assets/my-learning.jpg" width="240" alt="My Learning" />
+  <img src="assets/profile.jpg" width="240" alt="Profile" />
+</p>
 
 Admin / Creator:
 
-![Admin Dashboard](assets/admin-dashboard.jpg)
-![Admin Tools](assets/admin-tools.jpg)
+<p>
+  <img src="assets/admin-dashboard.jpg" width="240" alt="Admin Dashboard" />
+  <img src="assets/admin-tools.jpg" width="240" alt="Admin Tools" />
+</p>
 
 ## System Architecture
 
-![System Architecture](assets/architecture.png)
+<img src="assets/architecture.png" width="800" alt="System Architecture" />
 
 ## လုပ်ရင်း ရခဲ့တဲ့ သင်ခန်းစာတွေ
 
