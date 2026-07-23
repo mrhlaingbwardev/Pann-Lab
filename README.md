@@ -23,22 +23,23 @@ UI/UX ပိုင်းကတော့ GitHub မှာ user တစ်ယော
 <p>
   <img src="assets/home.jpg" width="220" alt="Home" />
   <img src="assets/course-detail.jpg" width="220" alt="Course Detail" />
-  <img src="assets/rate-course.jpg" width="220" alt="Rate Course" />
+  <img src="assets/checkout.jpg" width="220" alt="Check Out" />
 </p>
 
 <p>
+  <img src="assets/rate-course.jpg" width="220" alt="Rate Course" />
   <img src="assets/my-learning.jpg" width="220" alt="My Learning" />
   <img src="assets/profile.jpg" width="220" alt="Profile" />
-  <img src="assets/my-downloads.jpg" width="220" alt="My Downloads" />
 </p>
 
 <p>
+  <img src="assets/my-downloads.jpg" width="220" alt="My Downloads" />
   <img src="assets/notifications.jpg" width="220" alt="Notifications" />
   <img src="assets/settings.jpg" width="220" alt="Settings" />
-  <img src="assets/about-legal.jpg" width="220" alt="About and Legal" />
 </p>
 
 <p>
+  <img src="assets/about-legal.jpg" width="220" alt="About and Legal" />
   <img src="assets/promo-popup.jpg" width="220" alt="Promo Popup" />
 </p>
 
@@ -46,6 +47,7 @@ UI/UX ပိုင်းကတော့ GitHub မှာ user တစ်ယော
 
 <p>
   <img src="assets/creator-studio.jpg" width="220" alt="Creator Studio" />
+  <img src="assets/payout-history.jpg" width="220" alt="Payout History" />
   <img src="assets/become-creator.jpg" width="220" alt="Become a Creator" />
 </p>
 
@@ -72,6 +74,10 @@ UI/UX ပိုင်းကတော့ GitHub မှာ user တစ်ယော
 <p>
   <img src="assets/admin-manage-categories.jpg" width="220" alt="Manage Categories" />
   <img src="assets/admin-manage-notifications.jpg" width="220" alt="Manage Notifications" />
+  <img src="assets/admin-send-notification.jpg" width="220" alt="Send Notification" />
+</p>
+
+<p>
   <img src="assets/admin-promo-popup.jpg" width="220" alt="Promo Popup Setup" />
 </p>
 
